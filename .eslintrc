@@ -1,0 +1,18 @@
+{
+	"parserOptions": {
+		"ecmaVersion": 2021,
+		"sourceType": "module"
+	},
+	"extends": [
+		"eslint:recommended",
+		"eslint-config-prettier",
+		"plugin:jest/recommended"
+	],
+	"plugins": ["jest"],
+	"env": {
+		"es6": true,
+		"node": true,
+		"browser": true,
+		"amd": true
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"0": {
+		"alias": ["--testA", "--tA"],
+		"process": "testA"
+	},
+	"1": {
+		"alias": ["--testB", "--tB"],
+		"process": "testB"
+	}
+}

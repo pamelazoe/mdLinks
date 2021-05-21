@@ -1,0 +1,10 @@
+{
+	"0": {
+		"alias": ["--stats", "--s"],
+		"process": "stats"
+	},
+	"1": {
+		"alias": ["--validate", "--v"],
+		"process": "validate"
+	}
+}
